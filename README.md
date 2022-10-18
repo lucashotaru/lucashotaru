@@ -13,7 +13,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgur.com/NhVXbKI.png"  />
 
 ###
 
