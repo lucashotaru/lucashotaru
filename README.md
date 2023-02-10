@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oi 👋, Eu sou o Lucas<br>- 🗓️ Comecei a programar em 2020<br>- 🤯 Atualmente estudando php/symfony e docker</p>
+<p align="left">Oi 👋, Eu sou o Lucas<br>- 🗓️ Comecei a programar em 2021<br>- 🤯 Atualmente estudando php/symfony e docker</p>
 
 ###
 
